@@ -58,7 +58,7 @@ exibir_regras(modelo, ['Potência', 'Peso'], ['Econômico', 'Não Econômico'])
 ``````
 ## Saída Esperada:
 
-![Gráfico gerado](imagens/grafico7.png)
+![Gráfico gerado](DataScience-IA/imagens/grafico7.png)
 
 ``````text
 Regras da árvore de decisão:
