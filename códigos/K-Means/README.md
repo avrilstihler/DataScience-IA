@@ -1,12 +1,14 @@
 # Agrupamento de dados usando K-Means
-
+Este código implementa um algoritmo de clustering K-Means para agrupar alunos com base em suas notas de Matemática e Ciências, explorando o conceito de agrupamento não supervisionado.
 
 ## Saída Esperada:
 
 ![Gráfico gerado](../../imagens/grafico5.png)
 ![Gráfico gerado](../../imagens/grafico6.png)
 
-### RESUMO POR CLUSTER:
+````
+RESUMO POR CLUSTER:
+````
 
 | Nº Alunos | Média Mat | Desv. Mat | Mín Mat | Máx Mat | Média Cien | Desv. Cien | Mín Cien | Máx Cien |
 |-----------|-----------|-----------|---------|---------|------------|------------|----------|----------|
