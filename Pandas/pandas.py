@@ -14,6 +14,27 @@ df = pd.DataFrame(data)
 
 print(df)
 
+# Abrir o arquivo ignorando as linhas iniciais (título e separadores Markdown)
+with open("dataframe1.md", "r", encoding="utf-8") as f:
+    lines = f.readlines()
+
+# Filtrar apenas as linhas da tabela
+data_lines = [line for line in lines if not line.startswith("|-")]
+
+# Criar um novo arquivo CSV temporário para facilitar a leitura
+with open("temp.csv", "w", encoding="utf-8") as f:
+    f.writelines(data_lines)
+
+# Ler como CSV (Markdown usa '|' como separador)
+df = pd.read_csv("temp.csv", sep="|", skipinitialspace=True).drop(columns=[""])
+
+# Remover espaços extras nos nomes das colunas
+df.columns = df.columns.str.strip()
+
+print(df)
+
+
+
 print("\nVerificando valores ausentes:")
 print(df.isnull())
 print("\nQuantidade de valores ausentes por coluna:")
