@@ -1,3 +1,5 @@
+# Utilizando a biblioteca Pandas para criar e modificar um DataFrame
+
 ````python
 import pandas as pd
 
@@ -15,7 +17,7 @@ df = pd.DataFrame(data)
 
 print(df)
 ````
-
+## DataFrame Original:
 
 | Data       | Cidade         | Temperatura Máxima (°C) | Temperatura Mínima (°C) | Precipitação (mm) | Umidade Relativa (%) |
 |------------|---------------|-------------------------|-------------------------|-------------------|----------------------|
