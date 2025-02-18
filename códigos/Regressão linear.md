@@ -69,5 +69,5 @@ Dados de Teste:
 → Real: R$ 235 | Previsto: R$ 230.90
 ``````
 
-![Gráfico gerado](DataScience-IA/imagens/grafico3.png)
+![Gráfico gerado](../imagens/grafico3.png)
 
