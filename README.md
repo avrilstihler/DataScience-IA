@@ -1,6 +1,6 @@
 # DataScience-IA
 
-## Estrutura do Repositório
+## Estrutura do Repositório:
 
 ````r
 DataScience-IA/
