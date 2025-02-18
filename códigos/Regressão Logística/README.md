@@ -1,5 +1,5 @@
 # Criando um gráfico de Regressão Logística
-
+Esse código usa NumPy, Pandas, Matplotlib e Scikit-learn para construir um modelo de regressão logística, analisando a relação entre horas de exercício semanal e risco cardíaco. Ele divide os dados em treino e teste, ajusta o modelo para prever a probabilidade de risco e avalia a acurácia. Por fim, visualiza a relação entre as variáveis por meio de uma curva sigmoide.
 
 ## Saída Esperada
 
