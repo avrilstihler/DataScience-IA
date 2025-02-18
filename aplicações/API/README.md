@@ -1,9 +1,6 @@
 # Programa em Python que utiliza uma API de previsão de preços de criptomoedas
+Este código coleta dados históricos do preço do Bitcoin via API do CoinGecko, processa e converte esses dados em um DataFrame, criando uma variável alvo que indica se o preço de fechamento do próximo dia será maior (alta) ou menor (baixa). Um modelo de árvore de decisão é treinado para classificar esses movimentos de preço com base em variáveis como preço de abertura, máxima, mínima e fechamento. O modelo é avaliado com métricas de classificação e a árvore de decisão é visualizada para análise das decisões feitas pelo modelo.
 
-````py
-
-
-````
 ## Saída Esperada:
 ````text
 Dados recebidos da API CoinGecko (exibindo as 5 primeiras entradas):
@@ -38,5 +35,5 @@ Relatório de Classificação:
 weighted avg       0.45      0.36      0.37        28
 ````
 
-![Gráfico Esperado](../imagens/grafico9.png)
+![Gráfico Esperado](../../imagens/grafico9.png)
 
