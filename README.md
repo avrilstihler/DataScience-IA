@@ -25,6 +25,6 @@ DataScience-IA/
 │   ├── ...     
 │   └── grafico9.png     
 │
-└── README.md            # Documento principal com o resumo e estrutura do repositório
+└── README.md            # Documento principal com a estrutura do repositório
 
 ````
