@@ -1,5 +1,5 @@
 # Criando uma Árvore de decisão
-
+Este código utiliza uma árvore de decisão para classificar carros em duas categorias: "Econômico" e "Não Econômico". Com base nas características de potência e peso, o modelo faz divisões para determinar a classe de cada carro. A árvore de decisão é treinada com um conjunto de dados que contém essas variáveis e, em seguida, é visualizada para entender como o modelo faz suas classificações. 
 
 ## Saída Esperada:
 
