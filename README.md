@@ -1,5 +1,4 @@
 # DataScience-IA
-Este repositório armazena estudos sobre Inteligência Artificial e Ciência de Dados.
 
 ## Estrutura do Repositório
 
