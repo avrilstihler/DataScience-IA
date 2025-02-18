@@ -1,3 +1,4 @@
+# Utilizando a biblioteca Matplotlib para gerar um gráfico de linha
 ````py
 import matplotlib.pyplot as plt
 
@@ -26,5 +27,5 @@ plt.legend(loc='upper left', fontsize=10)
 # Exibindo o gráfico
 plt.show()
 `````
-
+## Saída Esperada:
 ![Gráfico Esperado](imagens/grafico1.png)
