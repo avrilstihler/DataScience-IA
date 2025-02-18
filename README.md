@@ -17,8 +17,8 @@ DataScience-IA/
 │
 ├── códigos/
 │   ├── K-Means.md          # Implementações de modelos de aprendizado de máquina.
-│   ├── Regresão Linear.md   
-│   ├── Regresão Logistica.md
+│   ├── Regresão Logistica.md   
+│   ├── Regresão Linear.md
 │   └── Árvore de Decisão.md
 │
 ├── imagens/
