@@ -28,4 +28,4 @@ plt.legend(loc='upper left', fontsize=10)
 plt.show()
 `````
 ## Saída Esperada:
-![Gráfico Esperado](imagens/grafico1.png)
+![Gráfico Esperado](DataScience-IA/main/imagens/grafico1.png)
