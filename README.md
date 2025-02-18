@@ -15,7 +15,7 @@ DataScience-IA/
 │   └── Seaborn.md       
 │
 ├── códigos/
-│   ├── K-Means.md                 # Implementações de modelos de aprendizado de máquina.
+│   ├── K-Means.md               # Implementações de modelos de aprendizado de máquina.
 │   ├── Regresão Logistica.md   
 │   ├── Regresão Linear.md
 │   └── Árvore de Decisão.md
