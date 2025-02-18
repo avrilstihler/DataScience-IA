@@ -1,6 +1,6 @@
 # DataScience-IA
 
-Este repositório armazena estudos sobre Inteligência Artificial e Ciência de Dados. Ele explora conceitos e práticas de machine learning, treinamento de modelos preditivos e análise de dados. 
+Este repositório armazena estudos focados em Inteligência Artificial e Ciência de Dados. Ele explora conceitos e práticas de machine learning, treinamento de modelos preditivos e análise de dados. 
 
 ## Estrutura do Repositório:
 
