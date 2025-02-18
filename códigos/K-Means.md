@@ -116,8 +116,8 @@ print("- Baixo Desempenho: Notas abaixo da média, necessitando de reforço")
 
 ## Saída Esperada:
 
-![Gráfico gerado](imagens/grafico5.png)
-![Gráfico gerado](imagens/grafico6.png)
+![Gráfico gerado](DataScience-IA/imagens/grafico5.png)
+![Gráfico gerado](DataScience-IA/imagens/grafico6.png)
 
 ### RESUMO POR CLUSTER:
 
