@@ -1,5 +1,5 @@
 # Pipeline utilizando a biblioteca Scikit-Learn para prever o preço de automóveis
-
+O código carrega dados de preços de carros e aplica regressão linear para prever preços com base em variáveis como idade, quilometragem e combustível. Utiliza um pipeline que pré-processa os dados com escalonamento e codificação antes de treinar o modelo. Após fazer as previsões, calcula o erro quadrático médio e apresenta os resultados para os dados de treinamento e teste. Um gráfico é gerado para comparar os preços reais e previstos no conjunto de treinamento.
 
 ## Saída Esperada:
 
@@ -38,4 +38,4 @@ MSE nos dados de treinamento: 3230647.68
 | Diesel      | 5     | 50000          | 28357.540110   |
 
 
-![Gráfico Esperado](../imagens/grafico8.png)
+![Gráfico Esperado](../../imagens/grafico8.png)
