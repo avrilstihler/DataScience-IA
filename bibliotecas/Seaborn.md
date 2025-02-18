@@ -51,4 +51,4 @@ plt.show()
 ````
 
 ## Saída Esperada:
-![Gráficos gerados](imagens/grafico2.png)
+![Gráficos gerados](../imagens/grafico2.png)
